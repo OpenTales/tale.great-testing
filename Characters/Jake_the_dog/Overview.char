@@ -1,4 +1,4 @@
-<p>Lorem ipsum dolor sit (should be the start of aa new line)amet, consectetur
+<p>Lorem ipsum dolor sit (should be the start of b new line)amet, consectetur
     adipiscing elit. Quisque non eros sem. Proin quam ex, consequat in convallis
     et, luctus in sapien. Sed malesuada urna et odio cursus bibendum. Aenean at
     porttitor dui. Duis suscipit lorem quam, sed efficitur ligula rhoncus et.
@@ -39,5 +39,7 @@
     sodales vitae. Sed consequat placerat congue. Praesent aliquet felis non
     ligula sagittis, ut commodo urna varius.a hey there.&nbsp; Ok lets see if
     you work</p>
-<p><br></p>
+<p>
+    <br>
+</p>
 <p>I want to make more changes</p>
