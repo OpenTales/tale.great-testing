@@ -1,5 +1,4 @@
-<p>
-Important-super
+<p> Important-super
 </p>
 
 <p>
@@ -8,8 +7,7 @@ Important-super
 <p>
 </p>
 
-<p>
-stuff
+<p> stuff
 </p>
 
 <p>
@@ -18,18 +16,17 @@ stuff
 <p>
 </p>
 
-<p>
-<strong>
-Some
-more
-changes-
-hey.
-Adding
-zack
-something
-into
-here
-</strong>
+<p> <strong>
+        Some
+        more
+        changes-
+        hey.
+        Adding
+        zack
+        something
+        into
+        here
+    </strong>
 </p>
 
 <p>
@@ -38,18 +35,14 @@ here
 <p>
 </p>
 
-<p>
-<strong>
-Whats
-these
-changes&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;like?
-</strong>
-</p>
-
-<p>
+<p> <strong>
+        Whats
+        these
+        changes&nbsp;
+        &nbsp;
+        &nbsp;
+        &nbsp;like?
+    </strong>
 </p>
 
 <p>
@@ -62,26 +55,52 @@ changes&nbsp;
 </p>
 
 <p>
-Down
-here?
-More
-stuff
-whatsup
-with
-that
-whats
-up
-with
-this
+</p>
+
+<p> Down
+    here?
+    More
+    stuff
+    whatsup
+    with
+    that
+    whats
+    up
+    with
+    this
 </p>
 
 <p>
-<br>
 </p>
 
 <p>
-Double
-space
+</p>
+
+<p> Double
+    space
+</p>
+
+<p><br>
+</p>
+
+<p><br>
+</p>
+
+<p><br>
+</p>
+
+<p><br>
+</p>
+
+<p><br>
+</p>
+
+<p>Missing
+    this
+    space
+</p>
+
+<p>
 </p>
 
 <p>
