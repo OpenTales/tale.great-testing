@@ -1,48 +1,5 @@
-<p> Important-super
-</p>
-
 <p>
-</p>
-
-<p>
-</p>
-
-<p> stuff
-</p>
-
-<p>
-</p>
-
-<p>
-</p>
-
-<p> <strong>
-        Some
-        more
-        changes-
-        hey.
-        Adding
-        zack
-        something
-        into
-        here
-    </strong>
-</p>
-
-<p>
-</p>
-
-<p>
-</p>
-
-<p> <strong>
-        Whats
-        these
-        changes&nbsp;
-        &nbsp;
-        &nbsp;
-        &nbsp;like?
-    </strong>
+Important-super&nbsp;<strong>(EOL)</strong>
 </p>
 
 <p>
@@ -52,22 +9,7 @@
 </p>
 
 <p>
-</p>
-
-<p>
-</p>
-
-<p> Down
-    here?
-    More
-    stuff
-    whatsup
-    with
-    that
-    whats
-    up
-    with
-    this
+stuff&nbsp;<strong>(EOL)</strong>
 </p>
 
 <p>
@@ -76,28 +18,125 @@
 <p>
 </p>
 
-<p> Double
-    space
+<p>
+<strong>
+Some
+more
+changes-
+hey.
+Adding
+zack
+something
+into
+here
+(EOL)
+</strong>
 </p>
 
-<p><br>
+<p>
 </p>
 
-<p><br>
+<p>
 </p>
 
-<p><br>
+<p>
+<strong>
+Whats
+these
+changes&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;like?
+(EOL)</strong>
 </p>
 
-<p><br>
+<p>
 </p>
 
-<p><br>
+<p>
 </p>
 
-<p>Missing
-    this
-    space
+<p>
+</p>
+
+<p>
+</p>
+
+<p>
+Down
+here?
+More
+stuff
+whatsup
+with
+that
+whats
+up
+with
+this&nbsp;<strong>(EOL)</strong>
+</p>
+
+<p>
+</p>
+
+<p>
+</p>
+
+<p>
+</p>
+
+<p>
+<br>
+</p>
+
+<p>
+Blank
+space
+above
+this
+line<strong>(EOL)</strong>
+</p>
+
+<p>
+<br>
+</p>
+
+<p>
+</p>
+
+<p>
+<br>
+</p>
+
+<p>
+</p>
+
+<p>
+<br>
+</p>
+
+<p>
+</p>
+
+<p>
+<br>
+</p>
+
+<p>
+</p>
+
+<p>
+<br>
+</p>
+
+<p>
+</p>
+
+<p>
+5spaces
+above
+this
+line
 </p>
 
 <p>
