@@ -1,5 +1,8 @@
 <p>
-Important-super&nbsp;<strong>(EOL)</strong>
+Important-super&nbsp;
+<strong>
+(EOL)
+</strong>
 </p>
 
 <p>
@@ -9,7 +12,10 @@ Important-super&nbsp;<strong>(EOL)</strong>
 </p>
 
 <p>
-stuff&nbsp;<strong>(EOL)</strong>
+stuff&nbsp;
+<strong>
+(EOL)
+</strong>
 </p>
 
 <p>
@@ -47,7 +53,8 @@ changes&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;like?
-(EOL)</strong>
+(EOL)
+</strong>
 </p>
 
 <p>
@@ -73,7 +80,10 @@ that
 whats
 up
 with
-this&nbsp;<strong>(EOL)</strong>
+this&nbsp;
+<strong>
+(EOL)
+</strong>
 </p>
 
 <p>
@@ -94,7 +104,10 @@ Blank
 space
 above
 this
-line<strong>(EOL)</strong>
+line&nbsp;
+<strong>
+(EOL)
+</strong>
 </p>
 
 <p>
