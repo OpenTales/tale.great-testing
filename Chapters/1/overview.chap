@@ -1,8 +1,5 @@
 <p>
-Important-super&nbsp;
-<strong>
-(EOL)
-</strong>
+Important-super&nbsp;<strong>(EOL)</strong>
 </p>
 
 <p>
@@ -12,10 +9,7 @@ Important-super&nbsp;
 </p>
 
 <p>
-stuff&nbsp;
-<strong>
-(EOL)
-</strong>
+stuff&nbsp;<strong>(EOL)</strong>
 </p>
 
 <p>
@@ -53,8 +47,7 @@ changes&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;like?
-(EOL)
-</strong>
+(EOL)</strong>
 </p>
 
 <p>
@@ -73,31 +66,14 @@ changes&nbsp;
 Down
 here?
 More
-<u>
-stuff
-</u>
-wh
-<strong>
-ats
-</strong>
-up
+<u>stuff</u>
+wh<strong>ats</strong>up
 with
 that
-wh
-<em>
-a
-</em>
-ts
+wh<em>a</em>ts
 up
-w
-<u>
-it
-</u>
-h
-this&nbsp;
-<strong>
-(EOL)
-</strong>
+w<u>it</u>h
+this&nbsp;<strong>(EOL)&nbsp;</strong>
 </p>
 
 <p>
@@ -118,10 +94,7 @@ Blank
 space
 above
 this
-line&nbsp;
-<strong>
-(EOL)
-</strong>
+line&nbsp;<strong>(EOL)</strong>
 </p>
 
 <p>
