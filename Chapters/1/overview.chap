@@ -50,7 +50,8 @@ Blank
 space
 above
 this
-line&nbsp;<strong>(EOL)</strong>
+line&nbsp;<strong>(EOL)
+wow</strong>
 </p>
 
 <p>
@@ -78,10 +79,6 @@ line&nbsp;<strong>(EOL)</strong>
 above
 this
 line
-</p>
-
-<p>
-<br>
 </p>
 
 <p>
